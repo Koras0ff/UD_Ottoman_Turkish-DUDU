@@ -1,0 +1,1657 @@
+# sent_id = 1
+# text = bayındır ḫânuñ yiğitleri, dirse ḫânı ḳarşuladılar; getürüp ḳara otağa ḳondurdılar, ḳara keçe altına döşediler, ḳara ḳoyun yaḥnısından öñine getürdiler.
+1	bayındır	_	_	_	_	_	_	_	_
+2	ḫânuñ	_	_	_	_	_	_	_	_
+3	yiğitleri	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	dirse	_	_	_	_	_	_	_	_
+6	ḫânı	_	_	_	_	_	_	_	_
+7	ḳarşuladılar	_	_	_	_	_	_	_	_
+8	;	_	_	_	_	_	_	_	_
+9	getürüp	_	_	_	_	_	_	_	_
+10	ḳara	_	_	_	_	_	_	_	_
+11	otağa	_	_	_	_	_	_	_	_
+12	ḳondurdılar	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	ḳara	_	_	_	_	_	_	_	_
+15	keçe	_	_	_	_	_	_	_	_
+16	altına	_	_	_	_	_	_	_	_
+17	döşediler	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ḳara	_	_	_	_	_	_	_	_
+20	ḳoyun	_	_	_	_	_	_	_	_
+21	yaḥnısından	_	_	_	_	_	_	_	_
+22	öñine	_	_	_	_	_	_	_	_
+23	getürdiler	_	_	_	_	_	_	_	_
+24	.	_	_	_	_	_	_	_	_
+
+# sent_id = 2
+# text = yerse yesün, yemezse ṭursun getsün.
+1	yerse	_	_	_	_	_	_	_	_
+2	yesün	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	yemezse	_	_	_	_	_	_	_	_
+5	ṭursun	_	_	_	_	_	_	_	_
+6	getsün	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 3
+# text = sen var iken av avladı, ḳuş ḳuşladı.
+1	sen	_	_	_	_	_	_	_	_
+2	var	_	_	_	_	_	_	_	_
+3	iken	_	_	_	_	_	_	_	_
+4	av	_	_	_	_	_	_	_	_
+5	avladı	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ḳuş	_	_	_	_	_	_	_	_
+8	ḳuşladı	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 4
+# text = ol ḳırḳ nâmerdüñ bir ḳaçı oğlanuñ yanına geldi, eydür:
+1	ol	_	_	_	_	_	_	_	_
+2	ḳırḳ	_	_	_	_	_	_	_	_
+3	nâmerdüñ	_	_	_	_	_	_	_	_
+4	bir	_	_	_	_	_	_	_	_
+5	ḳaçı	_	_	_	_	_	_	_	_
+6	oğlanuñ	_	_	_	_	_	_	_	_
+7	yanına	_	_	_	_	_	_	_	_
+8	geldi	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	eydür	_	_	_	_	_	_	_	_
+11	:	_	_	_	_	_	_	_	_
+
+# sent_id = 5
+# text = oġlan yine eydür:
+1	oġlan	_	_	_	_	_	_	_	_
+2	yine	_	_	_	_	_	_	_	_
+3	eydür	_	_	_	_	_	_	_	_
+4	:	_	_	_	_	_	_	_	_
+
+# sent_id = 6
+# text = ne eyleyelüm? deyü ṭanışdılar.
+1	ne	_	_	_	_	_	_	_	_
+2	eyleyelüm	_	_	_	_	_	_	_	_
+3	?	_	_	_	_	_	_	_	_
+4	deyü	_	_	_	_	_	_	_	_
+5	ṭanışdılar	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 7
+# text = kiminüñ boynın urdı, kimini ṭutsaḳ eyledi, babasını ḳurtardı, ḳayıtdı, gerü döndi.
+1	kiminüñ	_	_	_	_	_	_	_	_
+2	boynın	_	_	_	_	_	_	_	_
+3	urdı	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	kimini	_	_	_	_	_	_	_	_
+6	ṭutsaḳ	_	_	_	_	_	_	_	_
+7	eyledi	_	_	_	_	_	_	_	_
+8	,	_	_	_	_	_	_	_	_
+9	babasını	_	_	_	_	_	_	_	_
+10	ḳurtardı	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ḳayıtdı	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	gerü	_	_	_	_	_	_	_	_
+15	döndi	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 8
+# text = ḳazana ġayret geldi çobanı bir aġaca ṣara ṣara muḥkem baġladı, atlandı, yöriyü verdi.
+1	ḳazana	_	_	_	_	_	_	_	_
+2	ġayret	_	_	_	_	_	_	_	_
+3	geldi	_	_	_	_	_	_	_	_
+4	çobanı	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	aġaca	_	_	_	_	_	_	_	_
+7	ṣara	_	_	_	_	_	_	_	_
+8	ṣara	_	_	_	_	_	_	_	_
+9	muḥkem	_	_	_	_	_	_	_	_
+10	baġladı	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	atlandı	_	_	_	_	_	_	_	_
+13	,	_	_	_	_	_	_	_	_
+14	yöriyü	_	_	_	_	_	_	_	_
+15	verdi	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 9
+# text = bu ne sözdür!
+1	bu	_	_	_	_	_	_	_	_
+2	ne	_	_	_	_	_	_	_	_
+3	sözdür	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+
+# sent_id = 10
+# text = aġca ḳoyunlar olan yerde bir ḳuzıcaġı olmaz mı olur?
+1	aġca	_	_	_	_	_	_	_	_
+2	ḳoyunlar	_	_	_	_	_	_	_	_
+3	olan	_	_	_	_	_	_	_	_
+4	yerde	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	ḳuzıcaġı	_	_	_	_	_	_	_	_
+7	olmaz	_	_	_	_	_	_	_	_
+8	mı	_	_	_	_	_	_	_	_
+9	olur	_	_	_	_	_	_	_	_
+10	?	_	_	_	_	_	_	_	_
+
+# sent_id = 11
+# text = bunuñ üzerine birḳac zemân geçdi.
+1	bunuñ	_	_	_	_	_	_	_	_
+2	üzerine	_	_	_	_	_	_	_	_
+3	birḳac	_	_	_	_	_	_	_	_
+4	zemân	_	_	_	_	_	_	_	_
+5	geçdi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 12
+# text = oguz begleri buni eşitdiler şâd olup sevindiler.
+1	oguz	_	_	_	_	_	_	_	_
+2	begleri	_	_	_	_	_	_	_	_
+3	buni	_	_	_	_	_	_	_	_
+4	eşitdiler	_	_	_	_	_	_	_	_
+5	şâd	_	_	_	_	_	_	_	_
+6	olup	_	_	_	_	_	_	_	_
+7	sevindiler	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 13
+# text = oġlan ṭutsaḳdur, begler bilsün, dedi.
+1	oġlan	_	_	_	_	_	_	_	_
+2	ṭutsaḳdur	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	begler	_	_	_	_	_	_	_	_
+5	bilsün	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	dedi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# text = begler ḫoş kaluñ! dedi.
+1	begler	_	_	_	_	_	_	_	_
+2	ḫoş	_	_	_	_	_	_	_	_
+3	kaluñ	_	_	_	_	_	_	_	_
+4	!	_	_	_	_	_	_	_	_
+5	dedi	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 15
+# text = atdan ayġır, deveden buġra, ḳoyundan ḳoç kınldı.
+1	atdan	_	_	_	_	_	_	_	_
+2	ayġır	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	deveden	_	_	_	_	_	_	_	_
+5	buġra	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ḳoyundan	_	_	_	_	_	_	_	_
+8	ḳoç	_	_	_	_	_	_	_	_
+9	kınldı	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 16
+# text = gördiler, bir sürri ḳaz oturur.
+1	gördiler	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	sürri	_	_	_	_	_	_	_	_
+5	ḳaz	_	_	_	_	_	_	_	_
+6	oturur	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 17
+# text = ‘işḳ ma‘rifet deñizinden bir gevherdür ki dile şevḳ ü żiyâʾ virür.
+1	is	_	_	_	_	_	_	_	_
+2	ḳ	_	_	_	_	_	_	_	_
+3	ma	_	_	_	_	_	_	_	_
+4	rifet	_	_	_	_	_	_	_	_
+5	den	_	_	_	_	_	_	_	_
+6	izinden	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	gevherdu	_	_	_	_	_	_	_	_
+9	r	_	_	_	_	_	_	_	_
+10	ki	_	_	_	_	_	_	_	_
+11	dile	_	_	_	_	_	_	_	_
+12	s	_	_	_	_	_	_	_	_
+13	evḳ	_	_	_	_	_	_	_	_
+14	u	_	_	_	_	_	_	_	_
+15	żiya	_	_	_	_	_	_	_	_
+16	ʾ	_	_	_	_	_	_	_	_
+17	viru	_	_	_	_	_	_	_	_
+18	r	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 18
+# text = eger pâk tutarsañ, ka‘be-i raḥmân olur; ve eger bî-pâk olursañ, ḫâne-i şeytân olur.
+1	eger	_	_	_	_	_	_	_	_
+2	pa	_	_	_	_	_	_	_	_
+3	k	_	_	_	_	_	_	_	_
+4	tutarsan	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	ka	_	_	_	_	_	_	_	_
+7	be-i	_	_	_	_	_	_	_	_
+8	raḥma	_	_	_	_	_	_	_	_
+9	n	_	_	_	_	_	_	_	_
+10	olur	_	_	_	_	_	_	_	_
+11	;	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	eger	_	_	_	_	_	_	_	_
+14	bi	_	_	_	_	_	_	_	_
+15	-pa	_	_	_	_	_	_	_	_
+16	k	_	_	_	_	_	_	_	_
+17	olursan	_	_	_	_	_	_	_	_
+18	,	_	_	_	_	_	_	_	_
+19	ḫa	_	_	_	_	_	_	_	_
+20	ne-i	_	_	_	_	_	_	_	_
+21	s	_	_	_	_	_	_	_	_
+22	eyta	_	_	_	_	_	_	_	_
+23	n	_	_	_	_	_	_	_	_
+24	olur	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 19
+# text = birḳaç yıldan ṣoñra ḳapucı miskîn mevt döşegine düşdi.
+1	birḳaç	_	_	_	_	_	_	_	_
+2	yıldan	_	_	_	_	_	_	_	_
+3	ṣoñra	_	_	_	_	_	_	_	_
+4	ḳapucı	_	_	_	_	_	_	_	_
+5	miskîn	_	_	_	_	_	_	_	_
+6	mevt	_	_	_	_	_	_	_	_
+7	döşegine	_	_	_	_	_	_	_	_
+8	düşdi	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 20
+# text = fi’l-vâḳi’ o mübârek du’ânuñ bir berekâtıyla yanıma gelmege ḳâdir olımadılar.
+1	fi’l-vâḳi’	_	_	_	_	_	_	_	_
+2	o	_	_	_	_	_	_	_	_
+3	mübârek	_	_	_	_	_	_	_	_
+4	du’ânuñ	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	berekâtıyla	_	_	_	_	_	_	_	_
+7	yanıma	_	_	_	_	_	_	_	_
+8	gelmege	_	_	_	_	_	_	_	_
+9	ḳâdir	_	_	_	_	_	_	_	_
+10	olımadılar	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 21
+# text = hir ġazaba gelüp egninde olan libâsını ṣoyup arḳasına kühne pelâslar geyürdi ve eline ayaġına bend urdi ve geminün anbarında ḥabs eyleyüp bolay ki emrine râm ola deyü etmek ve su vermezdi.
+1	hir	_	_	_	_	_	_	_	_
+2	ġazaba	_	_	_	_	_	_	_	_
+3	gelüp	_	_	_	_	_	_	_	_
+4	egninde	_	_	_	_	_	_	_	_
+5	olan	_	_	_	_	_	_	_	_
+6	libâsını	_	_	_	_	_	_	_	_
+7	ṣoyup	_	_	_	_	_	_	_	_
+8	arḳasına	_	_	_	_	_	_	_	_
+9	kühne	_	_	_	_	_	_	_	_
+10	pelâslar	_	_	_	_	_	_	_	_
+11	geyürdi	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	eline	_	_	_	_	_	_	_	_
+14	ayaġına	_	_	_	_	_	_	_	_
+15	bend	_	_	_	_	_	_	_	_
+16	urdi	_	_	_	_	_	_	_	_
+17	ve	_	_	_	_	_	_	_	_
+18	geminün	_	_	_	_	_	_	_	_
+19	anbarında	_	_	_	_	_	_	_	_
+20	ḥabs	_	_	_	_	_	_	_	_
+21	eyleyüp	_	_	_	_	_	_	_	_
+22	bolay	_	_	_	_	_	_	_	_
+23	ki	_	_	_	_	_	_	_	_
+24	emrine	_	_	_	_	_	_	_	_
+25	râm	_	_	_	_	_	_	_	_
+26	ola	_	_	_	_	_	_	_	_
+27	deyü	_	_	_	_	_	_	_	_
+28	etmek	_	_	_	_	_	_	_	_
+29	ve	_	_	_	_	_	_	_	_
+30	su	_	_	_	_	_	_	_	_
+31	vermezdi	_	_	_	_	_	_	_	_
+32	.	_	_	_	_	_	_	_	_
+
+# sent_id = 22
+# text = mevc beni götürdi, deryâ kenârına atdı.
+1	mevc	_	_	_	_	_	_	_	_
+2	beni	_	_	_	_	_	_	_	_
+3	götürdi	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	deryâ	_	_	_	_	_	_	_	_
+6	kenârına	_	_	_	_	_	_	_	_
+7	atdı	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 23
+# text = cümlesin fuḳarâya üleşdüremem.
+1	cümlesin	_	_	_	_	_	_	_	_
+2	fuḳarâya	_	_	_	_	_	_	_	_
+3	üleşdüremem	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 24
+# text = pes anı seyr iderek altundan bir sûra geldi ki ortasında ẕeheb-i ḫâliṣden bir ḳubbe yapulmış.
+1	pes	_	_	_	_	_	_	_	_
+2	anı	_	_	_	_	_	_	_	_
+3	seyr	_	_	_	_	_	_	_	_
+4	iderek	_	_	_	_	_	_	_	_
+5	altundan	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	sûra	_	_	_	_	_	_	_	_
+8	geldi	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	ortasında	_	_	_	_	_	_	_	_
+11	ẕeheb-i	_	_	_	_	_	_	_	_
+12	ḫâliṣden	_	_	_	_	_	_	_	_
+13	bir	_	_	_	_	_	_	_	_
+14	ḳubbe	_	_	_	_	_	_	_	_
+15	yapulmış	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 25
+# text = iṣfahânuñ beriyyesi cânibinde on sekiz fersaḫ öte bir ḳaṣabadur.
+1	iṣfahânuñ	_	_	_	_	_	_	_	_
+2	beriyyesi	_	_	_	_	_	_	_	_
+3	cânibinde	_	_	_	_	_	_	_	_
+4	on	_	_	_	_	_	_	_	_
+5	sekiz	_	_	_	_	_	_	_	_
+6	fersaḫ	_	_	_	_	_	_	_	_
+7	öte	_	_	_	_	_	_	_	_
+8	bir	_	_	_	_	_	_	_	_
+9	ḳaṣabadur	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 26
+# text = ve yine tevrât nüzûlinden beş yüz yıl ṣoñra şehr-i ramażânuñ on ikinci gicesinde ḥażret-i dâvûd ‘aleyhi’s-selâma kitâb-ı zebûr nüzûl eylemişdir ki yüz elli sûredür.
+1	ve	_	_	_	_	_	_	_	_
+2	yine	_	_	_	_	_	_	_	_
+3	tevrât	_	_	_	_	_	_	_	_
+4	nüzûlinden	_	_	_	_	_	_	_	_
+5	beş	_	_	_	_	_	_	_	_
+6	yüz	_	_	_	_	_	_	_	_
+7	yıl	_	_	_	_	_	_	_	_
+8	ṣoñra	_	_	_	_	_	_	_	_
+9	şehr-i	_	_	_	_	_	_	_	_
+10	ramażânuñ	_	_	_	_	_	_	_	_
+11	on	_	_	_	_	_	_	_	_
+12	ikinci	_	_	_	_	_	_	_	_
+13	gicesinde	_	_	_	_	_	_	_	_
+14	ḥażret-i	_	_	_	_	_	_	_	_
+15	dâvûd	_	_	_	_	_	_	_	_
+16	aleyhi’s-selâma	_	_	_	_	_	_	_	_
+17	kitâb-ı	_	_	_	_	_	_	_	_
+18	zebûr	_	_	_	_	_	_	_	_
+19	nüzûl	_	_	_	_	_	_	_	_
+20	eylemişdir	_	_	_	_	_	_	_	_
+21	ki	_	_	_	_	_	_	_	_
+22	yüz	_	_	_	_	_	_	_	_
+23	elli	_	_	_	_	_	_	_	_
+24	sûredür	_	_	_	_	_	_	_	_
+25	.	_	_	_	_	_	_	_	_
+
+# sent_id = 27
+# text = ḫuṣûṣâ ki gûn ḳûrînüñ cümle bedeni ġâyetle mûydâr ve her ḳılı bir tîr-i tîze nümûdâr görindi.
+1	ḫuṣûṣâ	_	_	_	_	_	_	_	_
+2	ki	_	_	_	_	_	_	_	_
+3	gûn	_	_	_	_	_	_	_	_
+4	ḳûrînüñ	_	_	_	_	_	_	_	_
+5	cümle	_	_	_	_	_	_	_	_
+6	bedeni	_	_	_	_	_	_	_	_
+7	ġâyetle	_	_	_	_	_	_	_	_
+8	mûydâr	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	her	_	_	_	_	_	_	_	_
+11	ḳılı	_	_	_	_	_	_	_	_
+12	bir	_	_	_	_	_	_	_	_
+13	tîr-i	_	_	_	_	_	_	_	_
+14	tîze	_	_	_	_	_	_	_	_
+15	nümûdâr	_	_	_	_	_	_	_	_
+16	görindi	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 28
+# text = meẕkûr sipeh-sâlâr asker-i manṣûrla fî’l-ḥâl irtiḥâl idüp per-i ferr ü bâl-ı iḳbâlle uçup gitdi.
+1	meẕkûr	_	_	_	_	_	_	_	_
+2	sipeh-sâlâr	_	_	_	_	_	_	_	_
+3	asker-i	_	_	_	_	_	_	_	_
+4	manṣûrla	_	_	_	_	_	_	_	_
+5	fî’l-ḥâl	_	_	_	_	_	_	_	_
+6	irtiḥâl	_	_	_	_	_	_	_	_
+7	idüp	_	_	_	_	_	_	_	_
+8	per-i	_	_	_	_	_	_	_	_
+9	ferr	_	_	_	_	_	_	_	_
+10	ü	_	_	_	_	_	_	_	_
+11	bâl-ı	_	_	_	_	_	_	_	_
+12	iḳbâlle	_	_	_	_	_	_	_	_
+13	uçup	_	_	_	_	_	_	_	_
+14	gitdi	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 29
+# text = ol günün irtesi küffâr-ı bed-nihâd cânibinden emdâd u encâdlarıçün merd-i neberdle meşḥûn bir ḳalyon zulâm-ı şâmdan deryâdan gelüp limana girdi.
+1	ol	_	_	_	_	_	_	_	_
+2	günün	_	_	_	_	_	_	_	_
+3	irtesi	_	_	_	_	_	_	_	_
+4	küffâr-ı	_	_	_	_	_	_	_	_
+5	bed-nihâd	_	_	_	_	_	_	_	_
+6	cânibinden	_	_	_	_	_	_	_	_
+7	emdâd	_	_	_	_	_	_	_	_
+8	u	_	_	_	_	_	_	_	_
+9	encâdlarıçün	_	_	_	_	_	_	_	_
+10	merd-i	_	_	_	_	_	_	_	_
+11	neberdle	_	_	_	_	_	_	_	_
+12	meşḥûn	_	_	_	_	_	_	_	_
+13	bir	_	_	_	_	_	_	_	_
+14	ḳalyon	_	_	_	_	_	_	_	_
+15	zulâm-ı	_	_	_	_	_	_	_	_
+16	şâmdan	_	_	_	_	_	_	_	_
+17	deryâdan	_	_	_	_	_	_	_	_
+18	gelüp	_	_	_	_	_	_	_	_
+19	limana	_	_	_	_	_	_	_	_
+20	girdi	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 30
+# text = anlar daḫi ḫayl-i cerrâr-ı seyl-vâr deşt ü derede akdılar ve naʿl-ı âteş-bârla huşk ü teri yaḳdılar.
+1	anlar	_	_	_	_	_	_	_	_
+2	daḫi	_	_	_	_	_	_	_	_
+3	ḫayl-i	_	_	_	_	_	_	_	_
+4	cerrâr-ı	_	_	_	_	_	_	_	_
+5	seyl-vâr	_	_	_	_	_	_	_	_
+6	deşt	_	_	_	_	_	_	_	_
+7	ü	_	_	_	_	_	_	_	_
+8	derede	_	_	_	_	_	_	_	_
+9	akdılar	_	_	_	_	_	_	_	_
+10	ve	_	_	_	_	_	_	_	_
+11	naʿl-ı	_	_	_	_	_	_	_	_
+12	âteş-bârla	_	_	_	_	_	_	_	_
+13	huşk	_	_	_	_	_	_	_	_
+14	ü	_	_	_	_	_	_	_	_
+15	teri	_	_	_	_	_	_	_	_
+16	yaḳdılar	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 31
+# text = bu bir ʿilimdir ki ahkâm-ı şerʿiyye-i ferʿiyye-i ʿameliyyeden baḥis̱dir edille-i tafṣiliyyeden istinbâṭı ḥays̱iyetinden.
+1	bu	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	ʿilimdir	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	ahkâm-ı	_	_	_	_	_	_	_	_
+6	şerʿiyye-i	_	_	_	_	_	_	_	_
+7	ferʿiyye-i	_	_	_	_	_	_	_	_
+8	ʿameliyyeden	_	_	_	_	_	_	_	_
+9	baḥis	_	_	_	_	_	_	_	_
+10	dir	_	_	_	_	_	_	_	_
+11	edille-i	_	_	_	_	_	_	_	_
+12	tafṣiliyyeden	_	_	_	_	_	_	_	_
+13	istinbâṭı	_	_	_	_	_	_	_	_
+14	ḥays	_	_	_	_	_	_	_	_
+15	iyetinden	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 32
+# text = cümlesin bir yirde ḫalṭ idüb muḥkem ova tā ki ḥall ola baʿdehū bādāmı döküb bir miḳdārçe şekerle ova ve içine ḳoyub bir tepsi üzerine dizüb furuna ḳoy[ub] ḫarāret pişürüb çıḳara ve’s-selām
+1	cümlesin	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	yirde	_	_	_	_	_	_	_	_
+4	ḫalṭ	_	_	_	_	_	_	_	_
+5	idüb	_	_	_	_	_	_	_	_
+6	muḥkem	_	_	_	_	_	_	_	_
+7	ova	_	_	_	_	_	_	_	_
+8	tā	_	_	_	_	_	_	_	_
+9	ki	_	_	_	_	_	_	_	_
+10	ḥall	_	_	_	_	_	_	_	_
+11	ola	_	_	_	_	_	_	_	_
+12	baʿdehū	_	_	_	_	_	_	_	_
+13	bādāmı	_	_	_	_	_	_	_	_
+14	döküb	_	_	_	_	_	_	_	_
+15	bir	_	_	_	_	_	_	_	_
+16	miḳdārçe	_	_	_	_	_	_	_	_
+17	şekerle	_	_	_	_	_	_	_	_
+18	ova	_	_	_	_	_	_	_	_
+19	ve	_	_	_	_	_	_	_	_
+20	içine	_	_	_	_	_	_	_	_
+21	ḳoyub	_	_	_	_	_	_	_	_
+22	bir	_	_	_	_	_	_	_	_
+23	tepsi	_	_	_	_	_	_	_	_
+24	üzerine	_	_	_	_	_	_	_	_
+25	dizüb	_	_	_	_	_	_	_	_
+26	furuna	_	_	_	_	_	_	_	_
+27	ḳoy	_	_	_	_	_	_	_	_
+28	ub	_	_	_	_	_	_	_	_
+29	ḫarāret	_	_	_	_	_	_	_	_
+30	pişürüb	_	_	_	_	_	_	_	_
+31	çıḳara	_	_	_	_	_	_	_	_
+32	ve’s-selām	_	_	_	_	_	_	_	_
+
+# sent_id = 33
+# text = cümle on yedi neferdir.
+1	cümle	_	_	_	_	_	_	_	_
+2	on	_	_	_	_	_	_	_	_
+3	yedi	_	_	_	_	_	_	_	_
+4	neferdir	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 34
+# text = paşadan ve ʿayândan taḳdîr olan mertebe iḥsânlar alub ḫayr duʿâ iderler
+1	paşadan	_	_	_	_	_	_	_	_
+2	ve	_	_	_	_	_	_	_	_
+3	ʿayândan	_	_	_	_	_	_	_	_
+4	taḳdîr	_	_	_	_	_	_	_	_
+5	olan	_	_	_	_	_	_	_	_
+6	mertebe	_	_	_	_	_	_	_	_
+7	iḥsânlar	_	_	_	_	_	_	_	_
+8	alub	_	_	_	_	_	_	_	_
+9	ḫayr	_	_	_	_	_	_	_	_
+10	duʿâ	_	_	_	_	_	_	_	_
+11	iderler	_	_	_	_	_	_	_	_
+
+# sent_id = 35
+# text = ve bu şehirde şeyhü’l-beled defterile üç kerre yüz bin âdem vardır
+1	ve	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	şehirde	_	_	_	_	_	_	_	_
+4	şeyhü’l-beled	_	_	_	_	_	_	_	_
+5	defterile	_	_	_	_	_	_	_	_
+6	üç	_	_	_	_	_	_	_	_
+7	kerre	_	_	_	_	_	_	_	_
+8	yüz	_	_	_	_	_	_	_	_
+9	bin	_	_	_	_	_	_	_	_
+10	âdem	_	_	_	_	_	_	_	_
+11	vardır	_	_	_	_	_	_	_	_
+
+# sent_id = 36
+# text = sultân murâd ḫân bin târîḫinden sonra gelen pâdişâhların ‘azamı idi.
+1	sultân	_	_	_	_	_	_	_	_
+2	murâd	_	_	_	_	_	_	_	_
+3	ḫân	_	_	_	_	_	_	_	_
+4	bin	_	_	_	_	_	_	_	_
+5	târîḫinden	_	_	_	_	_	_	_	_
+6	sonra	_	_	_	_	_	_	_	_
+7	gelen	_	_	_	_	_	_	_	_
+8	pâdişâhların	_	_	_	_	_	_	_	_
+9	azamı	_	_	_	_	_	_	_	_
+10	idi	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 37
+# text = şimdi vaḳit degildir, gidilmez.
+1	şimdi	_	_	_	_	_	_	_	_
+2	vaḳit	_	_	_	_	_	_	_	_
+3	degildir	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	gidilmez	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 38
+# text = badehu yine mültefet olub bir sebeb ile vezîr bayram pâşâya hâtırmamde olub bir ḳaside-i ṭavîlü’z-ẕeyil ile ol vezîri rûşenżamîri hiciv eyledi.
+1	badehu	_	_	_	_	_	_	_	_
+2	yine	_	_	_	_	_	_	_	_
+3	mültefet	_	_	_	_	_	_	_	_
+4	olub	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	sebeb	_	_	_	_	_	_	_	_
+7	ile	_	_	_	_	_	_	_	_
+8	vezîr	_	_	_	_	_	_	_	_
+9	bayram	_	_	_	_	_	_	_	_
+10	pâşâya	_	_	_	_	_	_	_	_
+11	hâtırmamde	_	_	_	_	_	_	_	_
+12	olub	_	_	_	_	_	_	_	_
+13	bir	_	_	_	_	_	_	_	_
+14	ḳaside-i	_	_	_	_	_	_	_	_
+15	ṭavîlü’z-ẕeyil	_	_	_	_	_	_	_	_
+16	ile	_	_	_	_	_	_	_	_
+17	ol	_	_	_	_	_	_	_	_
+18	vezîri	_	_	_	_	_	_	_	_
+19	rûşenżamîri	_	_	_	_	_	_	_	_
+20	hiciv	_	_	_	_	_	_	_	_
+21	eyledi	_	_	_	_	_	_	_	_
+22	.	_	_	_	_	_	_	_	_
+
+# sent_id = 39
+# text = ve bundan muḳaddem geçen yetmiş bir biñ yıl daḫı hep ḫalḳ-ı insānuñ muḳaddemātıdur.
+1	ve	_	_	_	_	_	_	_	_
+2	bundan	_	_	_	_	_	_	_	_
+3	muḳaddem	_	_	_	_	_	_	_	_
+4	geçen	_	_	_	_	_	_	_	_
+5	yetmiş	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	biñ	_	_	_	_	_	_	_	_
+8	yıl	_	_	_	_	_	_	_	_
+9	daḫı	_	_	_	_	_	_	_	_
+10	hep	_	_	_	_	_	_	_	_
+11	ḫalḳ-ı	_	_	_	_	_	_	_	_
+12	insānuñ	_	_	_	_	_	_	_	_
+13	muḳaddemātıdur	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 40
+# text = s̱übūtı vardur ammā vücūdu yoḳdur.
+1	s	_	_	_	_	_	_	_	_
+2	übūtı	_	_	_	_	_	_	_	_
+3	vardur	_	_	_	_	_	_	_	_
+4	ammā	_	_	_	_	_	_	_	_
+5	vücūdu	_	_	_	_	_	_	_	_
+6	yoḳdur	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 41
+# text = müteşerriʿīn-i ṣūfiyye hep buña ḳāyillerdür.
+1	müteşerriʿīn-i	_	_	_	_	_	_	_	_
+2	ṣūfiyye	_	_	_	_	_	_	_	_
+3	hep	_	_	_	_	_	_	_	_
+4	buña	_	_	_	_	_	_	_	_
+5	ḳāyillerdür	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 42
+# text = baʿdehū risāle-i şerīfeʾi iki muḳaddime bir netīce üzere tertīb itdüm.
+1	baʿdehū	_	_	_	_	_	_	_	_
+2	risāle-i	_	_	_	_	_	_	_	_
+3	şerīfeʾi	_	_	_	_	_	_	_	_
+4	iki	_	_	_	_	_	_	_	_
+5	muḳaddime	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	netīce	_	_	_	_	_	_	_	_
+8	üzere	_	_	_	_	_	_	_	_
+9	tertīb	_	_	_	_	_	_	_	_
+10	itdüm	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 43
+# text = baʿde’l-ḫatveteyn maṭlūb-ı ḥaḳīkīye fāyiz olmaḳ muḳarrerdür.
+1	baʿde’l-ḫatveteyn	_	_	_	_	_	_	_	_
+2	maṭlūb-ı	_	_	_	_	_	_	_	_
+3	ḥaḳīkīye	_	_	_	_	_	_	_	_
+4	fāyiz	_	_	_	_	_	_	_	_
+5	olmaḳ	_	_	_	_	_	_	_	_
+6	muḳarrerdür	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 44
+# text = zīrā ḥaḳīḳatde bir şeyʾi idrāk itmek ol şeyʾe yetişmekdür.
+1	zīrā	_	_	_	_	_	_	_	_
+2	ḥaḳīḳatde	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	şeyʾi	_	_	_	_	_	_	_	_
+5	idrāk	_	_	_	_	_	_	_	_
+6	itmek	_	_	_	_	_	_	_	_
+7	ol	_	_	_	_	_	_	_	_
+8	şeyʾe	_	_	_	_	_	_	_	_
+9	yetişmekdür	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 45
+# text = ammā cinn ile min vechdür.
+1	ammā	_	_	_	_	_	_	_	_
+2	cinn	_	_	_	_	_	_	_	_
+3	ile	_	_	_	_	_	_	_	_
+4	min	_	_	_	_	_	_	_	_
+5	vechdür	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 46
+# text = nitekim dimişler.
+1	nitekim	_	_	_	_	_	_	_	_
+2	dimişler	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = 47
+# text = ve senden bir ṣabāḥ-ı vücūd ṭulūʿ itmişdür ki ol ṣubḥ-i kāẕib, sen ẓalām-ı şām gibisin dimekdür.
+1	ve	_	_	_	_	_	_	_	_
+2	senden	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	ṣabāḥ-ı	_	_	_	_	_	_	_	_
+5	vücūd	_	_	_	_	_	_	_	_
+6	ṭulūʿ	_	_	_	_	_	_	_	_
+7	itmişdür	_	_	_	_	_	_	_	_
+8	ki	_	_	_	_	_	_	_	_
+9	ol	_	_	_	_	_	_	_	_
+10	ṣubḥ-i	_	_	_	_	_	_	_	_
+11	kāẕib	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	sen	_	_	_	_	_	_	_	_
+14	ẓalām-ı	_	_	_	_	_	_	_	_
+15	şām	_	_	_	_	_	_	_	_
+16	gibisin	_	_	_	_	_	_	_	_
+17	dimekdür	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 48
+# text = mücerred neyl ü idrākdür.
+1	mücerred	_	_	_	_	_	_	_	_
+2	neyl	_	_	_	_	_	_	_	_
+3	ü	_	_	_	_	_	_	_	_
+4	idrākdür	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 49
+# text = hemān i̇slām-ı mecāzīden çıḳmaḳ küfr-i ḥaḳīkīye girmekdür.
+1	hemān	_	_	_	_	_	_	_	_
+2	i	_	_	_	_	_	_	_	_
+3	slām-ı	_	_	_	_	_	_	_	_
+4	mecāzīden	_	_	_	_	_	_	_	_
+5	çıḳmaḳ	_	_	_	_	_	_	_	_
+6	küfr-i	_	_	_	_	_	_	_	_
+7	ḥaḳīkīye	_	_	_	_	_	_	_	_
+8	girmekdür	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 50
+# text = bir ānlıḳ cevr ü sitemi biñ yıllıḳ ʿāleme degmez.
+1	bir	_	_	_	_	_	_	_	_
+2	ānlıḳ	_	_	_	_	_	_	_	_
+3	cevr	_	_	_	_	_	_	_	_
+4	ü	_	_	_	_	_	_	_	_
+5	sitemi	_	_	_	_	_	_	_	_
+6	biñ	_	_	_	_	_	_	_	_
+7	yıllıḳ	_	_	_	_	_	_	_	_
+8	ʿāleme	_	_	_	_	_	_	_	_
+9	degmez	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 51
+# text = saʿādetlü pādişahım boġdān ve eflāḳ voyvodaları ḳadīmü’l-eyyāmdan devlet-i ʿaliyyenüñ dostına dost u düşmenine düşmendür.
+1	saʿādetlü	_	_	_	_	_	_	_	_
+2	pādişahım	_	_	_	_	_	_	_	_
+3	boġdān	_	_	_	_	_	_	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	eflāḳ	_	_	_	_	_	_	_	_
+6	voyvodaları	_	_	_	_	_	_	_	_
+7	ḳadīmü’l-eyyāmdan	_	_	_	_	_	_	_	_
+8	devlet-i	_	_	_	_	_	_	_	_
+9	ʿaliyyenüñ	_	_	_	_	_	_	_	_
+10	dostına	_	_	_	_	_	_	_	_
+11	dost	_	_	_	_	_	_	_	_
+12	u	_	_	_	_	_	_	_	_
+13	düşmenine	_	_	_	_	_	_	_	_
+14	düşmendür	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 52
+# text = mârrü’t-terceme reyhân aġa süleyman aġaya halef olmağla bu şübhenin indifâʿı tashîh olunmuşdur.
+1	mârrü’t-terceme	_	_	_	_	_	_	_	_
+2	reyhân	_	_	_	_	_	_	_	_
+3	aġa	_	_	_	_	_	_	_	_
+4	süleyman	_	_	_	_	_	_	_	_
+5	aġaya	_	_	_	_	_	_	_	_
+6	halef	_	_	_	_	_	_	_	_
+7	olmağla	_	_	_	_	_	_	_	_
+8	bu	_	_	_	_	_	_	_	_
+9	şübhenin	_	_	_	_	_	_	_	_
+10	indifâʿı	_	_	_	_	_	_	_	_
+11	tashîh	_	_	_	_	_	_	_	_
+12	olunmuşdur	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 53
+# text = bin elli yedi senesi zarfında celâlî i̇brâhim aġa yerine ağa olmuşidi.
+1	bin	_	_	_	_	_	_	_	_
+2	elli	_	_	_	_	_	_	_	_
+3	yedi	_	_	_	_	_	_	_	_
+4	senesi	_	_	_	_	_	_	_	_
+5	zarfında	_	_	_	_	_	_	_	_
+6	celâlî	_	_	_	_	_	_	_	_
+7	i	_	_	_	_	_	_	_	_
+8	brâhim	_	_	_	_	_	_	_	_
+9	aġa	_	_	_	_	_	_	_	_
+10	yerine	_	_	_	_	_	_	_	_
+11	ağa	_	_	_	_	_	_	_	_
+12	olmuşidi	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 54
+# text = i̇şte ḥukemālıḳ da budur yoḫsa hindden yemenden ḥakīm getürseler fāʾide eylemez.
+1	i	_	_	_	_	_	_	_	_
+2	şte	_	_	_	_	_	_	_	_
+3	ḥukemālıḳ	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	budur	_	_	_	_	_	_	_	_
+6	yoḫsa	_	_	_	_	_	_	_	_
+7	hindden	_	_	_	_	_	_	_	_
+8	yemenden	_	_	_	_	_	_	_	_
+9	ḥakīm	_	_	_	_	_	_	_	_
+10	getürseler	_	_	_	_	_	_	_	_
+11	fāʾide	_	_	_	_	_	_	_	_
+12	eylemez	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 55
+# text = bir sûreti leh sefirinde serʽasker olan vezir mustafa pâşâya yazılmışdır.
+1	bir	_	_	_	_	_	_	_	_
+2	sûreti	_	_	_	_	_	_	_	_
+3	leh	_	_	_	_	_	_	_	_
+4	sefirinde	_	_	_	_	_	_	_	_
+5	serʽasker	_	_	_	_	_	_	_	_
+6	olan	_	_	_	_	_	_	_	_
+7	vezir	_	_	_	_	_	_	_	_
+8	mustafa	_	_	_	_	_	_	_	_
+9	pâşâya	_	_	_	_	_	_	_	_
+10	yazılmışdır	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 56
+# text = başḳa bir pārça kāġıda taḥrīr idip içine ḳoymuşdur olduġu bu resm ile merkūzdur.
+1	başḳa	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	pārça	_	_	_	_	_	_	_	_
+4	kāġıda	_	_	_	_	_	_	_	_
+5	taḥrīr	_	_	_	_	_	_	_	_
+6	idip	_	_	_	_	_	_	_	_
+7	içine	_	_	_	_	_	_	_	_
+8	ḳoymuşdur	_	_	_	_	_	_	_	_
+9	olduġu	_	_	_	_	_	_	_	_
+10	bu	_	_	_	_	_	_	_	_
+11	resm	_	_	_	_	_	_	_	_
+12	ile	_	_	_	_	_	_	_	_
+13	merkūzdur	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 57
+# text = s̱ebāt-ı salṭanat ve beḳā-yı memleket dört şeyʾiñ vücūduna menūṭ ve merbūṭdur.
+1	s	_	_	_	_	_	_	_	_
+2	ebāt-ı	_	_	_	_	_	_	_	_
+3	salṭanat	_	_	_	_	_	_	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	beḳā-yı	_	_	_	_	_	_	_	_
+6	memleket	_	_	_	_	_	_	_	_
+7	dört	_	_	_	_	_	_	_	_
+8	şeyʾiñ	_	_	_	_	_	_	_	_
+9	vücūduna	_	_	_	_	_	_	_	_
+10	menūṭ	_	_	_	_	_	_	_	_
+11	ve	_	_	_	_	_	_	_	_
+12	merbūṭdur	_	_	_	_	_	_	_	_
+13	.	_	_	_	_	_	_	_	_
+
+# sent_id = 58
+# text = on üç ẕī’l-ḳaʿdesinde meşāhīr-i ḳuḍātdan nice yıllar piriştine ilḥāḳı ile maḥrūse-i üsküpe müfettiş ve vālī ve reşg-endāz-ı eʿālī-i mevālī olan ḳadrī efendi fevt olup maḥlūl ü maḥlūlesi bunlara naṣīb ve ol diyār-ı celīlü’l-iʿtibārda iḳāmetlerine māye-i taḳrīb oldu.
+1	on	_	_	_	_	_	_	_	_
+2	üç	_	_	_	_	_	_	_	_
+3	ẕī’l-ḳaʿdesinde	_	_	_	_	_	_	_	_
+4	meşāhīr-i	_	_	_	_	_	_	_	_
+5	ḳuḍātdan	_	_	_	_	_	_	_	_
+6	nice	_	_	_	_	_	_	_	_
+7	yıllar	_	_	_	_	_	_	_	_
+8	piriştine	_	_	_	_	_	_	_	_
+9	ilḥāḳı	_	_	_	_	_	_	_	_
+10	ile	_	_	_	_	_	_	_	_
+11	maḥrūse-i	_	_	_	_	_	_	_	_
+12	üsküpe	_	_	_	_	_	_	_	_
+13	müfettiş	_	_	_	_	_	_	_	_
+14	ve	_	_	_	_	_	_	_	_
+15	vālī	_	_	_	_	_	_	_	_
+16	ve	_	_	_	_	_	_	_	_
+17	reşg-endāz-ı	_	_	_	_	_	_	_	_
+18	eʿālī-i	_	_	_	_	_	_	_	_
+19	mevālī	_	_	_	_	_	_	_	_
+20	olan	_	_	_	_	_	_	_	_
+21	ḳadrī	_	_	_	_	_	_	_	_
+22	efendi	_	_	_	_	_	_	_	_
+23	fevt	_	_	_	_	_	_	_	_
+24	olup	_	_	_	_	_	_	_	_
+25	maḥlūl	_	_	_	_	_	_	_	_
+26	ü	_	_	_	_	_	_	_	_
+27	maḥlūlesi	_	_	_	_	_	_	_	_
+28	bunlara	_	_	_	_	_	_	_	_
+29	naṣīb	_	_	_	_	_	_	_	_
+30	ve	_	_	_	_	_	_	_	_
+31	ol	_	_	_	_	_	_	_	_
+32	diyār-ı	_	_	_	_	_	_	_	_
+33	celīlü’l-iʿtibārda	_	_	_	_	_	_	_	_
+34	iḳāmetlerine	_	_	_	_	_	_	_	_
+35	māye-i	_	_	_	_	_	_	_	_
+36	taḳrīb	_	_	_	_	_	_	_	_
+37	oldu	_	_	_	_	_	_	_	_
+38	.	_	_	_	_	_	_	_	_
+
+# sent_id = 59
+# text = eks̱er budur ki her kişi bir lafẓ ile muʿtād olur.
+1	eks	_	_	_	_	_	_	_	_
+2	er	_	_	_	_	_	_	_	_
+3	budur	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	her	_	_	_	_	_	_	_	_
+6	kişi	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	lafẓ	_	_	_	_	_	_	_	_
+9	ile	_	_	_	_	_	_	_	_
+10	muʿtād	_	_	_	_	_	_	_	_
+11	olur	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 60
+# text = eger dilerseñ bir kimseyi tesḫīr idesin, evvel kendi adın ve anası adın ḥisāb idesin.
+1	eger	_	_	_	_	_	_	_	_
+2	dilerseñ	_	_	_	_	_	_	_	_
+3	bir	_	_	_	_	_	_	_	_
+4	kimseyi	_	_	_	_	_	_	_	_
+5	tesḫīr	_	_	_	_	_	_	_	_
+6	idesin	_	_	_	_	_	_	_	_
+7	,	_	_	_	_	_	_	_	_
+8	evvel	_	_	_	_	_	_	_	_
+9	kendi	_	_	_	_	_	_	_	_
+10	adın	_	_	_	_	_	_	_	_
+11	ve	_	_	_	_	_	_	_	_
+12	anası	_	_	_	_	_	_	_	_
+13	adın	_	_	_	_	_	_	_	_
+14	ḥisāb	_	_	_	_	_	_	_	_
+15	idesin	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 61
+# text = yine olmaz ise üçüncü defʿa on bir gice daḫı eyleye, elbette musaḫḫar olur.
+1	yine	_	_	_	_	_	_	_	_
+2	olmaz	_	_	_	_	_	_	_	_
+3	ise	_	_	_	_	_	_	_	_
+4	üçüncü	_	_	_	_	_	_	_	_
+5	defʿa	_	_	_	_	_	_	_	_
+6	on	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	gice	_	_	_	_	_	_	_	_
+9	daḫı	_	_	_	_	_	_	_	_
+10	eyleye	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	elbette	_	_	_	_	_	_	_	_
+13	musaḫḫar	_	_	_	_	_	_	_	_
+14	olur	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 62
+# text = benim devletli sulṭānım, ḥużūr-ı saʿādete firistāde ḳılına!
+1	benim	_	_	_	_	_	_	_	_
+2	devletli	_	_	_	_	_	_	_	_
+3	sulṭānım	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	ḥużūr-ı	_	_	_	_	_	_	_	_
+6	saʿādete	_	_	_	_	_	_	_	_
+7	firistāde	_	_	_	_	_	_	_	_
+8	ḳılına	_	_	_	_	_	_	_	_
+9	!	_	_	_	_	_	_	_	_
+
+# sent_id = 63
+# text = bu sözde şübhe yoḳdur, cümlesi aḳvāl-i ṣādıḳdır.
+1	bu	_	_	_	_	_	_	_	_
+2	sözde	_	_	_	_	_	_	_	_
+3	şübhe	_	_	_	_	_	_	_	_
+4	yoḳdur	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	cümlesi	_	_	_	_	_	_	_	_
+7	aḳvāl-i	_	_	_	_	_	_	_	_
+8	ṣādıḳdır	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 64
+# text = altına zer dirler.
+1	altına	_	_	_	_	_	_	_	_
+2	zer	_	_	_	_	_	_	_	_
+3	dirler	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 65
+# text = zīrā bu ṭarīḳ-i muʿammāda bir kelimeniñ āḫirine gelen ḥarfe ayaġı diyü ẕikr olunur.
+1	zīrā	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	ṭarīḳ-i	_	_	_	_	_	_	_	_
+4	muʿammāda	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	kelimeniñ	_	_	_	_	_	_	_	_
+7	āḫirine	_	_	_	_	_	_	_	_
+8	gelen	_	_	_	_	_	_	_	_
+9	ḥarfe	_	_	_	_	_	_	_	_
+10	ayaġı	_	_	_	_	_	_	_	_
+11	diyü	_	_	_	_	_	_	_	_
+12	ẕikr	_	_	_	_	_	_	_	_
+13	olunur	_	_	_	_	_	_	_	_
+14	.	_	_	_	_	_	_	_	_
+
+# sent_id = 66
+# text = andan ṣoñra ortaya bâde geldi, yemege içmege başladılar.
+1	andan	_	_	_	_	_	_	_	_
+2	ṣoñra	_	_	_	_	_	_	_	_
+3	ortaya	_	_	_	_	_	_	_	_
+4	bâde	_	_	_	_	_	_	_	_
+5	geldi	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	yemege	_	_	_	_	_	_	_	_
+8	içmege	_	_	_	_	_	_	_	_
+9	başladılar	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 67
+# text = bir kişi ġanī ve bī-iḥtiyāc olsa ġurbetde vaṭanındadır ve bir kişi faḳīr ve muḥtāc olsa kendi vaṭanında ġarībdir.
+1	bir	_	_	_	_	_	_	_	_
+2	kişi	_	_	_	_	_	_	_	_
+3	ġanī	_	_	_	_	_	_	_	_
+4	ve	_	_	_	_	_	_	_	_
+5	bī-iḥtiyāc	_	_	_	_	_	_	_	_
+6	olsa	_	_	_	_	_	_	_	_
+7	ġurbetde	_	_	_	_	_	_	_	_
+8	vaṭanındadır	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	bir	_	_	_	_	_	_	_	_
+11	kişi	_	_	_	_	_	_	_	_
+12	faḳīr	_	_	_	_	_	_	_	_
+13	ve	_	_	_	_	_	_	_	_
+14	muḥtāc	_	_	_	_	_	_	_	_
+15	olsa	_	_	_	_	_	_	_	_
+16	kendi	_	_	_	_	_	_	_	_
+17	vaṭanında	_	_	_	_	_	_	_	_
+18	ġarībdir	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 68
+# text = dost oldur ki ṭoġru söyleye, egri yürümeye.
+1	dost	_	_	_	_	_	_	_	_
+2	oldur	_	_	_	_	_	_	_	_
+3	ki	_	_	_	_	_	_	_	_
+4	ṭoġru	_	_	_	_	_	_	_	_
+5	söyleye	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	egri	_	_	_	_	_	_	_	_
+8	yürümeye	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 69
+# text = ḳaç dostuñ vardır?
+1	ḳaç	_	_	_	_	_	_	_	_
+2	dostuñ	_	_	_	_	_	_	_	_
+3	vardır	_	_	_	_	_	_	_	_
+4	?	_	_	_	_	_	_	_	_
+
+# sent_id = 70
+# text = bundan aʿlā şey yoḳdur.
+1	bundan	_	_	_	_	_	_	_	_
+2	aʿlā	_	_	_	_	_	_	_	_
+3	şey	_	_	_	_	_	_	_	_
+4	yoḳdur	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 71
+# text = ṭaʿāmı hażm itdirir.
+1	ṭaʿāmı	_	_	_	_	_	_	_	_
+2	hażm	_	_	_	_	_	_	_	_
+3	itdirir	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 72
+# text = ve ḫātūnlarıñ ḥayżı degmesine żabt ider ve iç aġrıların ve ḳabżı ve ishālleri cümle defʿ ider.
+1	ve	_	_	_	_	_	_	_	_
+2	ḫātūnlarıñ	_	_	_	_	_	_	_	_
+3	ḥayżı	_	_	_	_	_	_	_	_
+4	degmesine	_	_	_	_	_	_	_	_
+5	żabt	_	_	_	_	_	_	_	_
+6	ider	_	_	_	_	_	_	_	_
+7	ve	_	_	_	_	_	_	_	_
+8	iç	_	_	_	_	_	_	_	_
+9	aġrıların	_	_	_	_	_	_	_	_
+10	ve	_	_	_	_	_	_	_	_
+11	ḳabżı	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	ishālleri	_	_	_	_	_	_	_	_
+14	cümle	_	_	_	_	_	_	_	_
+15	defʿ	_	_	_	_	_	_	_	_
+16	ider	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 73
+# text = tāze yumurṭa ve yāḫūd ṭavuḳ ṣuyu ile üç dört ṭamla içireler.
+1	tāze	_	_	_	_	_	_	_	_
+2	yumurṭa	_	_	_	_	_	_	_	_
+3	ve	_	_	_	_	_	_	_	_
+4	yāḫūd	_	_	_	_	_	_	_	_
+5	ṭavuḳ	_	_	_	_	_	_	_	_
+6	ṣuyu	_	_	_	_	_	_	_	_
+7	ile	_	_	_	_	_	_	_	_
+8	üç	_	_	_	_	_	_	_	_
+9	dört	_	_	_	_	_	_	_	_
+10	ṭamla	_	_	_	_	_	_	_	_
+11	içireler	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 74
+# text = düşmen ıraḳda iken oḳ atmaḳ enfaʿdır.
+1	du	_	_	_	_	_	_	_	_
+2	s	_	_	_	_	_	_	_	_
+3	men	_	_	_	_	_	_	_	_
+4	ıraḳda	_	_	_	_	_	_	_	_
+5	iken	_	_	_	_	_	_	_	_
+6	oḳ	_	_	_	_	_	_	_	_
+7	atmaḳ	_	_	_	_	_	_	_	_
+8	enfaʿdır	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 75
+# text = resûlullâh ṣallallâhu ʿaleyhi vesellem ḥażretleriniñ beş yayı var idi.
+1	resûlullâh	_	_	_	_	_	_	_	_
+2	ṣallallâhu	_	_	_	_	_	_	_	_
+3	ʿaleyhi	_	_	_	_	_	_	_	_
+4	vesellem	_	_	_	_	_	_	_	_
+5	ḥażretlerinin	_	_	_	_	_	_	_	_
+6	bes	_	_	_	_	_	_	_	_
+7	yayı	_	_	_	_	_	_	_	_
+8	var	_	_	_	_	_	_	_	_
+9	idi	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 76
+# text = o cihetle edebiyatsız millet, dilsiz insân ḳabîlinde olur.
+1	o	_	_	_	_	_	_	_	_
+2	cihetle	_	_	_	_	_	_	_	_
+3	edebiyatsız	_	_	_	_	_	_	_	_
+4	millet	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	dilsiz	_	_	_	_	_	_	_	_
+7	insân	_	_	_	_	_	_	_	_
+8	ḳabîlinde	_	_	_	_	_	_	_	_
+9	olur	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 77
+# text = türkçemiz bir lisândır ki, bilkuvve şâmil olduġu muḥassenâta göre, dünyada en birinci lisânlardan addolunmaġa şâyândır.
+1	türkçemiz	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	lisândır	_	_	_	_	_	_	_	_
+4	ki	_	_	_	_	_	_	_	_
+5	,	_	_	_	_	_	_	_	_
+6	bilkuvve	_	_	_	_	_	_	_	_
+7	şâmil	_	_	_	_	_	_	_	_
+8	olduġu	_	_	_	_	_	_	_	_
+9	muḥassenâta	_	_	_	_	_	_	_	_
+10	göre	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	dünyada	_	_	_	_	_	_	_	_
+13	en	_	_	_	_	_	_	_	_
+14	birinci	_	_	_	_	_	_	_	_
+15	lisânlardan	_	_	_	_	_	_	_	_
+16	addolunmaġa	_	_	_	_	_	_	_	_
+17	şâyândır	_	_	_	_	_	_	_	_
+18	.	_	_	_	_	_	_	_	_
+
+# sent_id = 78
+# text = vâkıʿa şiʿr ve inşânın bu ḥâle girmesi bu ʿasrın yapması degildir.
+1	vâkıʿa	_	_	_	_	_	_	_	_
+2	şiʿr	_	_	_	_	_	_	_	_
+3	ve	_	_	_	_	_	_	_	_
+4	inşânın	_	_	_	_	_	_	_	_
+5	bu	_	_	_	_	_	_	_	_
+6	ḥâle	_	_	_	_	_	_	_	_
+7	girmesi	_	_	_	_	_	_	_	_
+8	bu	_	_	_	_	_	_	_	_
+9	ʿasrın	_	_	_	_	_	_	_	_
+10	yapması	_	_	_	_	_	_	_	_
+11	degildir	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 79
+# text = hele bir kere raġbet o cihete dönsün az vaḳtte ne şâʿirler, ne kâtipler yetişir ki, ʿaḳllara hayret verir.
+1	hele	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	kere	_	_	_	_	_	_	_	_
+4	raġbet	_	_	_	_	_	_	_	_
+5	o	_	_	_	_	_	_	_	_
+6	cihete	_	_	_	_	_	_	_	_
+7	dönsün	_	_	_	_	_	_	_	_
+8	az	_	_	_	_	_	_	_	_
+9	vaḳtte	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	şâʿirler	_	_	_	_	_	_	_	_
+12	,	_	_	_	_	_	_	_	_
+13	ne	_	_	_	_	_	_	_	_
+14	kâtipler	_	_	_	_	_	_	_	_
+15	yetişir	_	_	_	_	_	_	_	_
+16	ki	_	_	_	_	_	_	_	_
+17	,	_	_	_	_	_	_	_	_
+18	ʿaḳllara	_	_	_	_	_	_	_	_
+19	hayret	_	_	_	_	_	_	_	_
+20	verir	_	_	_	_	_	_	_	_
+21	.	_	_	_	_	_	_	_	_
+
+# sent_id = 80
+# text = oġlunun gördügü terbiye bu yolda olduḳtan ṣoñra ḳızının terbiyesi ne hâlde ḳaldıġını da istiḫrâc edebilirsiniz.
+1	oġlunun	_	_	_	_	_	_	_	_
+2	gördügü	_	_	_	_	_	_	_	_
+3	terbiye	_	_	_	_	_	_	_	_
+4	bu	_	_	_	_	_	_	_	_
+5	yolda	_	_	_	_	_	_	_	_
+6	olduḳtan	_	_	_	_	_	_	_	_
+7	ṣoñra	_	_	_	_	_	_	_	_
+8	ḳızının	_	_	_	_	_	_	_	_
+9	terbiyesi	_	_	_	_	_	_	_	_
+10	ne	_	_	_	_	_	_	_	_
+11	hâlde	_	_	_	_	_	_	_	_
+12	ḳaldıġını	_	_	_	_	_	_	_	_
+13	da	_	_	_	_	_	_	_	_
+14	istiḫrâc	_	_	_	_	_	_	_	_
+15	edebilirsiniz	_	_	_	_	_	_	_	_
+16	.	_	_	_	_	_	_	_	_
+
+# sent_id = 81
+# text = cânân nereye ister ise gidiyoruz.
+1	cânân	_	_	_	_	_	_	_	_
+2	nereye	_	_	_	_	_	_	_	_
+3	ister	_	_	_	_	_	_	_	_
+4	ise	_	_	_	_	_	_	_	_
+5	gidiyoruz	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 82
+# text = o senenin hazîrânı evâsıṭına doġru sıcaḳlar günden güne şiddetini artırdı.
+1	o	_	_	_	_	_	_	_	_
+2	senenin	_	_	_	_	_	_	_	_
+3	hazîrânı	_	_	_	_	_	_	_	_
+4	evâsıṭına	_	_	_	_	_	_	_	_
+5	doġru	_	_	_	_	_	_	_	_
+6	sıcaḳlar	_	_	_	_	_	_	_	_
+7	günden	_	_	_	_	_	_	_	_
+8	güne	_	_	_	_	_	_	_	_
+9	şiddetini	_	_	_	_	_	_	_	_
+10	artırdı	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 83
+# text = dişleri de elbette iki dizi incidir.
+1	dişleri	_	_	_	_	_	_	_	_
+2	de	_	_	_	_	_	_	_	_
+3	elbette	_	_	_	_	_	_	_	_
+4	iki	_	_	_	_	_	_	_	_
+5	dizi	_	_	_	_	_	_	_	_
+6	incidir	_	_	_	_	_	_	_	_
+7	.	_	_	_	_	_	_	_	_
+
+# sent_id = 84
+# text = ṣofranın etrafında yedi kişiydiler.
+1	ṣofranın	_	_	_	_	_	_	_	_
+2	etrafında	_	_	_	_	_	_	_	_
+3	yedi	_	_	_	_	_	_	_	_
+4	kişiydiler	_	_	_	_	_	_	_	_
+5	.	_	_	_	_	_	_	_	_
+
+# sent_id = 85
+# text = baḳınız, işte şimdi bile o ʿaḳlına geldiği için vücûdunda ürpermeye benzer bir şey duyuyor…
+1	baḳınız	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	işte	_	_	_	_	_	_	_	_
+4	şimdi	_	_	_	_	_	_	_	_
+5	bile	_	_	_	_	_	_	_	_
+6	o	_	_	_	_	_	_	_	_
+7	ʿaḳlına	_	_	_	_	_	_	_	_
+8	geldiği	_	_	_	_	_	_	_	_
+9	için	_	_	_	_	_	_	_	_
+10	vücûdunda	_	_	_	_	_	_	_	_
+11	ürpermeye	_	_	_	_	_	_	_	_
+12	benzer	_	_	_	_	_	_	_	_
+13	bir	_	_	_	_	_	_	_	_
+14	şey	_	_	_	_	_	_	_	_
+15	duyuyor	_	_	_	_	_	_	_	_
+
+# sent_id = 86
+# text = waldteufelin bu meşhur valsini ne vakit dinlese bütün hayali inkişâf ederdi.
+1	waldteufelin	_	_	_	_	_	_	_	_
+2	bu	_	_	_	_	_	_	_	_
+3	meşhur	_	_	_	_	_	_	_	_
+4	valsini	_	_	_	_	_	_	_	_
+5	ne	_	_	_	_	_	_	_	_
+6	vakit	_	_	_	_	_	_	_	_
+7	dinlese	_	_	_	_	_	_	_	_
+8	bütün	_	_	_	_	_	_	_	_
+9	hayali	_	_	_	_	_	_	_	_
+10	inkişâf	_	_	_	_	_	_	_	_
+11	ederdi	_	_	_	_	_	_	_	_
+12	.	_	_	_	_	_	_	_	_
+
+# sent_id = 87
+# text = bu ġazete tebʿa-i ʿosmânîyenin ḥuḳûḳ-u meşrûʿa-i esâsiyesini ṭâlibdir ve bütün nâmuslu ve ḥürriyetperest ahâlimizin tercümân-ı efkârıdır.
+1	bu	_	_	_	_	_	_	_	_
+2	ġazete	_	_	_	_	_	_	_	_
+3	tebʿa-i	_	_	_	_	_	_	_	_
+4	ʿosmânîyenin	_	_	_	_	_	_	_	_
+5	ḥuḳûḳ-u	_	_	_	_	_	_	_	_
+6	meşrûʿa-i	_	_	_	_	_	_	_	_
+7	esâsiyesini	_	_	_	_	_	_	_	_
+8	ṭâlibdir	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	bütün	_	_	_	_	_	_	_	_
+11	nâmuslu	_	_	_	_	_	_	_	_
+12	ve	_	_	_	_	_	_	_	_
+13	ḥürriyetperest	_	_	_	_	_	_	_	_
+14	ahâlimizin	_	_	_	_	_	_	_	_
+15	tercümân-ı	_	_	_	_	_	_	_	_
+16	efkârıdır	_	_	_	_	_	_	_	_
+17	.	_	_	_	_	_	_	_	_
+
+# sent_id = 88
+# text = dünyada bir nefes sıḥḥaṭ gibi devlet bulunmadıġı müsellem bir ḥaḳîḳattir
+1	dünyada	_	_	_	_	_	_	_	_
+2	bir	_	_	_	_	_	_	_	_
+3	nefes	_	_	_	_	_	_	_	_
+4	sıḥḥaṭ	_	_	_	_	_	_	_	_
+5	gibi	_	_	_	_	_	_	_	_
+6	devlet	_	_	_	_	_	_	_	_
+7	bulunmadıġı	_	_	_	_	_	_	_	_
+8	müsellem	_	_	_	_	_	_	_	_
+9	bir	_	_	_	_	_	_	_	_
+10	ḥaḳîḳattir	_	_	_	_	_	_	_	_
+
+# sent_id = 89
+# text = bütün sanayi-i nefisenin mevzusu güzellik dediğimiz şeyin zapt ve tasviridir.
+1	bütün	_	_	_	_	_	_	_	_
+2	sanayi-i	_	_	_	_	_	_	_	_
+3	nefisenin	_	_	_	_	_	_	_	_
+4	mevzusu	_	_	_	_	_	_	_	_
+5	güzellik	_	_	_	_	_	_	_	_
+6	dediğimiz	_	_	_	_	_	_	_	_
+7	şeyin	_	_	_	_	_	_	_	_
+8	zapt	_	_	_	_	_	_	_	_
+9	ve	_	_	_	_	_	_	_	_
+10	tasviridir	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 90
+# text = ṣan’at-ı şiʿire pek degersiz bir intisâbım vardır.
+1	ṣan’at-ı	_	_	_	_	_	_	_	_
+2	şiʿire	_	_	_	_	_	_	_	_
+3	pek	_	_	_	_	_	_	_	_
+4	degersiz	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	intisâbım	_	_	_	_	_	_	_	_
+7	vardır	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 91
+# text = bir eser o mevâddan mürekkep olmaḳ ve o eşkâl ve ḥudut dâḫilinde bulunmaḳ ile güzel olmak lâzım gelmez.
+1	bir	_	_	_	_	_	_	_	_
+2	eser	_	_	_	_	_	_	_	_
+3	o	_	_	_	_	_	_	_	_
+4	mevâddan	_	_	_	_	_	_	_	_
+5	mürekkep	_	_	_	_	_	_	_	_
+6	olmaḳ	_	_	_	_	_	_	_	_
+7	ve	_	_	_	_	_	_	_	_
+8	o	_	_	_	_	_	_	_	_
+9	eşkâl	_	_	_	_	_	_	_	_
+10	ve	_	_	_	_	_	_	_	_
+11	ḥudut	_	_	_	_	_	_	_	_
+12	dâḫilinde	_	_	_	_	_	_	_	_
+13	bulunmaḳ	_	_	_	_	_	_	_	_
+14	ile	_	_	_	_	_	_	_	_
+15	güzel	_	_	_	_	_	_	_	_
+16	olmak	_	_	_	_	_	_	_	_
+17	lâzım	_	_	_	_	_	_	_	_
+18	gelmez	_	_	_	_	_	_	_	_
+19	.	_	_	_	_	_	_	_	_
+
+# sent_id = 92
+# text = jul vern, bu mütefennin, ḫayâlperest ḥikâyenüvîs bir romanında, ḫâricden yalñız maʾi sularını, köpüklü dalġalarını gördügümüz deñiziñ naẓârımıza mecḥûl ḳalan derinliklerinde –velev ḫayâlî olsun– birçoḳ vaḳʿayi-i ġarîbe tasvîr ve irâʾesiyle bu esrârengiz cihân-ı ġaraʾib ḥaḳḳında bize ḫayli maʿlûmât-ı nâfiʿa vermişdi.
+1	jul	_	_	_	_	_	_	_	_
+2	vern	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	bu	_	_	_	_	_	_	_	_
+5	mütefennin	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	ḫayâlperest	_	_	_	_	_	_	_	_
+8	ḥikâyenüvîs	_	_	_	_	_	_	_	_
+9	bir	_	_	_	_	_	_	_	_
+10	romanında	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	_
+12	ḫâricden	_	_	_	_	_	_	_	_
+13	yalñız	_	_	_	_	_	_	_	_
+14	maʾi	_	_	_	_	_	_	_	_
+15	sularını	_	_	_	_	_	_	_	_
+16	,	_	_	_	_	_	_	_	_
+17	köpüklü	_	_	_	_	_	_	_	_
+18	dalġalarını	_	_	_	_	_	_	_	_
+19	gördügümüz	_	_	_	_	_	_	_	_
+20	deñiziñ	_	_	_	_	_	_	_	_
+21	naẓârımıza	_	_	_	_	_	_	_	_
+22	mecḥûl	_	_	_	_	_	_	_	_
+23	ḳalan	_	_	_	_	_	_	_	_
+24	derinliklerinde	_	_	_	_	_	_	_	_
+25	velev	_	_	_	_	_	_	_	_
+26	ḫayâlî	_	_	_	_	_	_	_	_
+27	olsun	_	_	_	_	_	_	_	_
+28	birçoḳ	_	_	_	_	_	_	_	_
+29	vaḳʿayi-i	_	_	_	_	_	_	_	_
+30	ġarîbe	_	_	_	_	_	_	_	_
+31	tasvîr	_	_	_	_	_	_	_	_
+32	ve	_	_	_	_	_	_	_	_
+33	irâʾesiyle	_	_	_	_	_	_	_	_
+34	bu	_	_	_	_	_	_	_	_
+35	esrârengiz	_	_	_	_	_	_	_	_
+36	cihân-ı	_	_	_	_	_	_	_	_
+37	ġaraʾib	_	_	_	_	_	_	_	_
+38	ḥaḳḳında	_	_	_	_	_	_	_	_
+39	bize	_	_	_	_	_	_	_	_
+40	ḫayli	_	_	_	_	_	_	_	_
+41	maʿlûmât-ı	_	_	_	_	_	_	_	_
+42	nâfiʿa	_	_	_	_	_	_	_	_
+43	vermişdi	_	_	_	_	_	_	_	_
+44	.	_	_	_	_	_	_	_	_
+
+# sent_id = 93
+# text = altunı virüb, ḳapudını aldı.
+1	altunı	_	_	_	_	_	_	_	_
+2	virüb	_	_	_	_	_	_	_	_
+3	,	_	_	_	_	_	_	_	_
+4	ḳapudını	_	_	_	_	_	_	_	_
+5	aldı	_	_	_	_	_	_	_	_
+6	.	_	_	_	_	_	_	_	_
+
+# sent_id = 94
+# text = herkes giderken çıḳarub, birer avuç para bıraḳub, gitdiler.
+1	herkes	_	_	_	_	_	_	_	_
+2	giderken	_	_	_	_	_	_	_	_
+3	çıḳarub	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	birer	_	_	_	_	_	_	_	_
+6	avuç	_	_	_	_	_	_	_	_
+7	para	_	_	_	_	_	_	_	_
+8	bıraḳub	_	_	_	_	_	_	_	_
+9	,	_	_	_	_	_	_	_	_
+10	gitdiler	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 95
+# text = ol zaman oġlan eyitdi:
+1	ol	_	_	_	_	_	_	_	_
+2	zaman	_	_	_	_	_	_	_	_
+3	oġlan	_	_	_	_	_	_	_	_
+4	eyitdi	_	_	_	_	_	_	_	_
+5	:	_	_	_	_	_	_	_	_
+
+# sent_id = 96
+# text = hıżırın ayaġından aldıġı tobraġı anasınıñ gözlerine çekdi.
+1	hıżırın	_	_	_	_	_	_	_	_
+2	ayaġından	_	_	_	_	_	_	_	_
+3	aldıġı	_	_	_	_	_	_	_	_
+4	tobraġı	_	_	_	_	_	_	_	_
+5	anasınıñ	_	_	_	_	_	_	_	_
+6	gözlerine	_	_	_	_	_	_	_	_
+7	çekdi	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+# sent_id = 97
+# text = onlar irmiş murâdına.
+1	onlar	_	_	_	_	_	_	_	_
+2	irmiş	_	_	_	_	_	_	_	_
+3	murâdına	_	_	_	_	_	_	_	_
+4	.	_	_	_	_	_	_	_	_
+
+# sent_id = 98
+# text = böyle bilesiñiz.
+1	böyle	_	_	_	_	_	_	_	_
+2	bilesiñiz	_	_	_	_	_	_	_	_
+3	.	_	_	_	_	_	_	_	_
+
+# sent_id = 99
+# text = evet, biraz da ʿaşḳtan, daha doğrusu yine ʿaşḳtan baḥs̱edelim
+1	evet	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	biraz	_	_	_	_	_	_	_	_
+4	da	_	_	_	_	_	_	_	_
+5	ʿaşḳtan	_	_	_	_	_	_	_	_
+6	,	_	_	_	_	_	_	_	_
+7	daha	_	_	_	_	_	_	_	_
+8	doğrusu	_	_	_	_	_	_	_	_
+9	yine	_	_	_	_	_	_	_	_
+10	ʿaşḳtan	_	_	_	_	_	_	_	_
+11	baḥs	_	_	_	_	_	_	_	_
+12	edelim	_	_	_	_	_	_	_	_
+
+# sent_id = 100
+# text = ḥükûmat-ı müctemiʿanın arizona eyâletinde böyle bir ormanıñ vücûdundan bilmem ḫaberdâr mısınız?
+1	ḥükûmat-ı	_	_	_	_	_	_	_	_
+2	müctemiʿanın	_	_	_	_	_	_	_	_
+3	arizona	_	_	_	_	_	_	_	_
+4	eyâletinde	_	_	_	_	_	_	_	_
+5	böyle	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	ormanıñ	_	_	_	_	_	_	_	_
+8	vücûdundan	_	_	_	_	_	_	_	_
+9	bilmem	_	_	_	_	_	_	_	_
+10	ḫaberdâr	_	_	_	_	_	_	_	_
+11	mısınız	_	_	_	_	_	_	_	_
+12	?	_	_	_	_	_	_	_	_
+
+# sent_id = 101
+# text = bugün birer ṭaş kütlesinden başḳa bir şey olmayan bu aġaçlarıñ ḳısm-ı ʿazamı çam nevʿindendir.
+1	bugün	_	_	_	_	_	_	_	_
+2	birer	_	_	_	_	_	_	_	_
+3	ṭaş	_	_	_	_	_	_	_	_
+4	kütlesinden	_	_	_	_	_	_	_	_
+5	başḳa	_	_	_	_	_	_	_	_
+6	bir	_	_	_	_	_	_	_	_
+7	şey	_	_	_	_	_	_	_	_
+8	olmayan	_	_	_	_	_	_	_	_
+9	bu	_	_	_	_	_	_	_	_
+10	aġaçlarıñ	_	_	_	_	_	_	_	_
+11	ḳısm-ı	_	_	_	_	_	_	_	_
+12	ʿazamı	_	_	_	_	_	_	_	_
+13	çam	_	_	_	_	_	_	_	_
+14	nevʿindendir	_	_	_	_	_	_	_	_
+15	.	_	_	_	_	_	_	_	_
+
+# sent_id = 102
+# text = geçen hafta fransızların resmî meʾmuriyet ve serbest sanʾatlara girmek için hissettikleri inhimâk-ı şedit ile bunun netâyiç-i mażarrasını görmüştük; bu hafta da i̇talyanın mevkiʿ-i iḳtiṣâdî, aḥlaḳî ve fikrîsini tetḳiḳ edecegiz:
+1	geçen	_	_	_	_	_	_	_	_
+2	hafta	_	_	_	_	_	_	_	_
+3	fransızların	_	_	_	_	_	_	_	_
+4	resmî	_	_	_	_	_	_	_	_
+5	meʾmuriyet	_	_	_	_	_	_	_	_
+6	ve	_	_	_	_	_	_	_	_
+7	serbest	_	_	_	_	_	_	_	_
+8	sanʾatlara	_	_	_	_	_	_	_	_
+9	girmek	_	_	_	_	_	_	_	_
+10	için	_	_	_	_	_	_	_	_
+11	hissettikleri	_	_	_	_	_	_	_	_
+12	inhimâk-ı	_	_	_	_	_	_	_	_
+13	şedit	_	_	_	_	_	_	_	_
+14	ile	_	_	_	_	_	_	_	_
+15	bunun	_	_	_	_	_	_	_	_
+16	netâyiç-i	_	_	_	_	_	_	_	_
+17	mażarrasını	_	_	_	_	_	_	_	_
+18	görmüştük	_	_	_	_	_	_	_	_
+19	;	_	_	_	_	_	_	_	_
+20	bu	_	_	_	_	_	_	_	_
+21	hafta	_	_	_	_	_	_	_	_
+22	da	_	_	_	_	_	_	_	_
+23	i	_	_	_	_	_	_	_	_
+24	talyanın	_	_	_	_	_	_	_	_
+25	mevkiʿ-i	_	_	_	_	_	_	_	_
+26	iḳtiṣâdî	_	_	_	_	_	_	_	_
+27	,	_	_	_	_	_	_	_	_
+28	aḥlaḳî	_	_	_	_	_	_	_	_
+29	ve	_	_	_	_	_	_	_	_
+30	fikrîsini	_	_	_	_	_	_	_	_
+31	tetḳiḳ	_	_	_	_	_	_	_	_
+32	edecegiz	_	_	_	_	_	_	_	_
+33	:	_	_	_	_	_	_	_	_
+
+# sent_id = 103
+# text = ey cemâʿat-i müslimîn, bilmiş olunuz ki müslümânlıḳta ḳavmiyet yoḳtur
+1	ey	_	_	_	_	_	_	_	_
+2	cemâʿat-i	_	_	_	_	_	_	_	_
+3	müslimîn	_	_	_	_	_	_	_	_
+4	,	_	_	_	_	_	_	_	_
+5	bilmiş	_	_	_	_	_	_	_	_
+6	olunuz	_	_	_	_	_	_	_	_
+7	ki	_	_	_	_	_	_	_	_
+8	müslümânlıḳta	_	_	_	_	_	_	_	_
+9	ḳavmiyet	_	_	_	_	_	_	_	_
+10	yoḳtur	_	_	_	_	_	_	_	_
+
+# sent_id = 104
+# text = bunuñ üzerine el birligiyle çalıştılar
+1	bunuñ	_	_	_	_	_	_	_	_
+2	üzerine	_	_	_	_	_	_	_	_
+3	el	_	_	_	_	_	_	_	_
+4	birligiyle	_	_	_	_	_	_	_	_
+5	çalıştılar	_	_	_	_	_	_	_	_
+
+# sent_id = 105
+# text = ey ʿos̱manlı ḳardeşlerim!
+1	ey	_	_	_	_	_	_	_	_
+2	ʿos	_	_	_	_	_	_	_	_
+3	manlı	_	_	_	_	_	_	_	_
+4	ḳardeşlerim	_	_	_	_	_	_	_	_
+5	!	_	_	_	_	_	_	_	_
+
+# sent_id = 106
+# text = ḳocası ḥacı efendinin tek vuruştan ibâret bir ḳapı çalışı vardı.
+1	ḳocası	_	_	_	_	_	_	_	_
+2	ḥacı	_	_	_	_	_	_	_	_
+3	efendinin	_	_	_	_	_	_	_	_
+4	tek	_	_	_	_	_	_	_	_
+5	vuruştan	_	_	_	_	_	_	_	_
+6	ibâret	_	_	_	_	_	_	_	_
+7	bir	_	_	_	_	_	_	_	_
+8	ḳapı	_	_	_	_	_	_	_	_
+9	çalışı	_	_	_	_	_	_	_	_
+10	vardı	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	_
+
+# sent_id = 107
+# text = bâzı kibâr ḳonaḳlarında içerideki şeylerin dışarıya ṣızmasını istemezler.
+1	bâzı	_	_	_	_	_	_	_	_
+2	kibâr	_	_	_	_	_	_	_	_
+3	ḳonaḳlarında	_	_	_	_	_	_	_	_
+4	içerideki	_	_	_	_	_	_	_	_
+5	şeylerin	_	_	_	_	_	_	_	_
+6	dışarıya	_	_	_	_	_	_	_	_
+7	ṣızmasını	_	_	_	_	_	_	_	_
+8	istemezler	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 108
+# text = dışarıda vaḥşi ve soġuk bir şubat gecesi vardı.
+1	dışarıda	_	_	_	_	_	_	_	_
+2	vaḥşi	_	_	_	_	_	_	_	_
+3	ve	_	_	_	_	_	_	_	_
+4	soġuk	_	_	_	_	_	_	_	_
+5	bir	_	_	_	_	_	_	_	_
+6	şubat	_	_	_	_	_	_	_	_
+7	gecesi	_	_	_	_	_	_	_	_
+8	vardı	_	_	_	_	_	_	_	_
+9	.	_	_	_	_	_	_	_	_
+
+# sent_id = 109
+# text = ḥalḳa doġru gitmenin ikinci vazîfesi de ḥalḳa medeniyet götürmektir.
+1	ḥalḳa	_	_	_	_	_	_	_	_
+2	doġru	_	_	_	_	_	_	_	_
+3	gitmenin	_	_	_	_	_	_	_	_
+4	ikinci	_	_	_	_	_	_	_	_
+5	vazîfesi	_	_	_	_	_	_	_	_
+6	de	_	_	_	_	_	_	_	_
+7	ḥalḳa	_	_	_	_	_	_	_	_
+8	medeniyet	_	_	_	_	_	_	_	_
+9	götürmektir	_	_	_	_	_	_	_	_
+10	.	_	_	_	_	_	_	_	_
+
+# sent_id = 110
+# text = ʿacaba, millî lisânımız bunlardan hangisi olacaḳtır?
+1	ʿacaba	_	_	_	_	_	_	_	_
+2	,	_	_	_	_	_	_	_	_
+3	millî	_	_	_	_	_	_	_	_
+4	lisânımız	_	_	_	_	_	_	_	_
+5	bunlardan	_	_	_	_	_	_	_	_
+6	hangisi	_	_	_	_	_	_	_	_
+7	olacaḳtır	_	_	_	_	_	_	_	_
+8	?	_	_	_	_	_	_	_	_
+
